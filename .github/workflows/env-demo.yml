@@ -1,7 +1,7 @@
 name: Environment Variable Demo
 on: [push]
 env:
-  GREETING: "hello"
+  GREETING: "Hi"
 
 jobs:
   build:
